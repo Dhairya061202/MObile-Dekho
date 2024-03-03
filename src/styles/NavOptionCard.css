@@ -1,0 +1,14 @@
+.NavOptionCard{
+    width: 10vmax;
+    text-align: center;
+    cursor: pointer;
+}
+.NavOptionCard > img{
+    width: 10vmax;
+}
+.NavOptionCard > p{
+    margin: 0;
+}
+.NavOptionCard > span{
+    color: blue;
+}

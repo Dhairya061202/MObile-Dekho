@@ -1,0 +1,53 @@
+@media screen and (1145px < width < 1400px) {
+    
+    .preNav{
+        display: grid;
+        grid-template-columns: 5fr 2fr;
+    }
+    .navlinks{
+        font-size: 0.9vmax;
+        margin: 1vmax 1.8vmax;
+    }
+    .logotext{
+        font-size: 1.8vmax;
+    }
+    .searchbox > input{
+        width: 8vmax;
+        font-size: 0.7rem;
+    }
+    .searchbox{
+        display: flex;
+        align-items: center;
+    }
+    
+}
+
+@media screen and (500px < width < 1145px){
+    .preNav{
+        display: grid;
+        grid-template-columns: 6fr 3fr;
+    }
+    .navlinks{
+        font-size: 0.9vmax;
+        margin: 1vmax 1.8vmax;
+    }
+    .logotext{
+        font-size: 1.8vmax;
+    }
+    .searchbox > input{
+        width: 8vmax;
+        font-size: 0.5rem;
+    }
+    .searchbox{
+        display: flex;
+        align-items: center;
+    }
+}
+
+@media screen and ( width < 500px){
+    .navlinks{
+        font-size: 0.9vmax;
+        margin: 1vmax 1.1vmax;
+    }
+}
+

@@ -1,0 +1,139 @@
+@media screen and (1053px < width < 1377px) {
+    .nav-link{
+        font-size: 1vmax;
+    }
+    .search-input{
+        font-size: 1vmax;
+    }
+    .search-btn{
+        font-size: 10px;
+        
+    }
+}
+
+@media screen and (991px < width < 1053px) {
+    .nav-link{
+        font-size: 1vmax;
+        margin: 7px;
+    }
+    .search-input{
+        font-size: 1vmax;
+        width: 80%;
+    }
+    .search-btn{
+        font-size: 10px;
+        height: 50%;
+    }
+}
+@media screen and (width <= 620px){
+    .productReviewCard img{
+        width: 80%;
+    }
+} 
+@media screen and (max-width:368px){
+    .heading p{
+        font-size: 1vmax;
+    }
+    .heading div{
+        
+        width: 20vw;
+    }
+}
+@media screen and (width <= 405px){
+    .offer-image img{
+        width: 100%;
+    }
+    .offersSection{
+        width: 80%;
+        margin-left: 35px;
+    }
+}
+@media screen and (width <= 477px){
+    .HotAccessoriesLink{
+        margin: 1vmax;
+        font-size: 2vmax;
+    }
+}
+@media screen and (width <= 383px){
+    .HotAccessoriesLink{
+        margin: 0.8vmax;
+        font-size: 1.5vmax;
+    }
+}
+@media screen and (width <= 535px){
+    .HotAccessories > div:first-child > img{
+        margin-left: 70px;
+        height: 100%;
+    }
+    .HotItemcard > p{
+        font-size: 1vmax;
+    }
+    .HotItemcard > span{
+        font-size: 1vmax;
+    }
+}
+@media screen and (width <= 660px){
+    .text h3{
+        font-size: 1.5vmax;
+        margin-bottom: 2px;
+    }
+    .text p{
+        font-size: 1vmax;
+        margin-bottom: 2px;
+    }
+    .text u{
+        font-size: 1.5vmax;
+    }
+}
+@media screen and (width <= 360px){
+    .text h3{
+        font-size: 0.8vmax;
+        margin-bottom: 2px;
+    }
+    .text p{
+        font-size: 0.6vmax;
+        margin-bottom: 2px;
+    }
+    .text u{
+        font-size: 0.8vmax;
+    }
+}
+@media screen and (width <= 610px){
+    .PreFooter{
+        padding: 0.5vmax;
+    }
+    .PreFooter > div p{
+        font-size: 1.5vmax;
+    }
+    .PreFooter > div svg{
+        width: 15px;
+        margin-bottom: 20px;
+    }
+}
+@media screen and (width <= 391px){
+    .PreFooter{
+        padding: 0.5vmax;
+    }
+    .PreFooter > div p{
+        font-size: 1vmax;
+    }
+    .PreFooter > div svg{
+        width: 10px;
+        margin-bottom: 20px;
+    }
+}
+@media screen and (width <= 274px){
+    .first-text{
+        margin-right: 5px;
+    }
+    .second-text{
+        margin-left: 20px;
+    }
+    .third-text{
+        margin-left: 15px;
+    }
+}
+@media screen and (width <= 1132px){
+    
+}
+    
